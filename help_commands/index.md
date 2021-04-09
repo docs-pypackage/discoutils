@@ -1,7 +1,7 @@
 # MinimalEmbedHelp
 
 ## test
-[![MinimalEmbedHelp.png](https://raw.githubusercontent.com/docs-pypackage/main/assets/MinimalEmbedHelp.png)](https://raw.github.com/docs-pypackage/main/assets/MinimalEmbedHelp.png)
+[![MinimalEmbedHelp.png](https://raw.githubusercontent.com/docs-pypackage/discoutils/main/assets/MinimalEmbedHelp.png)](https://raw.github.com/docs-pypackage/discoutils/main/assets/MinimalEmbedHelp.png)
 ## tutorial
 ```py
 import discord, discoutils
@@ -19,7 +19,7 @@ bot.run("TOKEN")
 # DefaultEmbedHelp
 
 ## test
-[![DefaultEmbedHelp.png](https://raw.githubusercontent.com/docs-pypackage/main/assets/DefaultEmbedHelp.png)](https://raw.github.com/docs-pypackage/main/assets/DefaultEmbedHelp.png)
+[![DefaultEmbedHelp.png](https://raw.githubusercontent.com/docs-pypackage/discoutils/main/assets/DefaultEmbedHelp.png)](https://raw.github.com/docs-pypackage/discoutils/main/assets/DefaultEmbedHelp.png)
 ## tutorial
 ```py
 import discord, discoutils
