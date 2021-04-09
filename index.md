@@ -1,8 +1,11 @@
 # discoutils
-
-it contains help commands and cogs<br>
-
-[help commands](https://docs-pypackage.github.io/discoutils/help_commands/#DefaultEmbedHelp)
+Helps discord bot developers
+# installation
+```bash
+pip install discoutils==0.0.3.3
+```
+# help commands
+[help commands](https://docs-pypackage.github.io/discoutils/help_commands)
 
 # support
 
