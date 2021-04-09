@@ -2,7 +2,7 @@
 
 it contains help commands and cogs<br>
 
- [next page](https://Rishiraj0100.github.io/discoutils/help)
+ [help commands](https://Rishiraj0100.github.io/discoutils/help)
 
 # support
 
